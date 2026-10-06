@@ -48,7 +48,6 @@ GeoPandas • Rasterio • Sentinel-2 • STAC
 Flask • FastAPI • Git • GitHub • Linux
 
 ---
----
 
 ### 🔗 Find Me
 
