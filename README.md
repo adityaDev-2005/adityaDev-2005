@@ -51,9 +51,9 @@ Flask • FastAPI • Git • GitHub • Linux
 
 ### 🔗 Find Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aditya%20Mishra-blue?style=flat-square&logo=linkedin)](YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aditya%20Mishra-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/aditya-asutosh-mishra-1654b2331/)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-black?style=flat-square)](YOUR_PORTFOLIO)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-black?style=flat-square)](https://adityadev-2005.github.io/My_portfolio/)
 
 ---
 
