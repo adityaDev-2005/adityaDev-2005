@@ -48,12 +48,6 @@ GeoPandas • Rasterio • Sentinel-2 • STAC
 Flask • FastAPI • Git • GitHub • Linux
 
 ---
-
-### 🌱 Currently Learning
-
-Robotics, ROS2, Reinforcement Learning,
-Remote Sensing and RAG systems.
-
 ---
 
 ### 🔗 Find Me
