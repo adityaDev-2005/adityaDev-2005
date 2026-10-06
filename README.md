@@ -29,7 +29,6 @@ figuring out why something broke. 😄
 - 👁️ **Deepfake Classification**
 - 😴 **Drowsiness Detection**
 - 📚 **RAG & LLM Projects**
-- 🤖 **ROS2 & Robotics Projects**
 
 ---
 
